@@ -7,4 +7,4 @@ Here's a few things about me:
 - 🧑🏾‍🎓 I’m a Computer Science Undergrad.
 - 🌱 I’m currently learning (everything I can).
 - 📫 How to reach me: [email](mailto:o.enyioma@gmail.com), [LinkedIn](https://www.linkedin.com/in/oluwafenyi).
-- 🎮 When I'm not commiting code to GitHub I'm probably playing a video game.
+- 🎮 When I'm not pushing code to GitHub I'm probably playing a video game.
